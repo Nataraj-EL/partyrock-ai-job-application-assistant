@@ -115,6 +115,14 @@ Each AI workflow is backed by dedicated prompts that are documented in the `prom
 
 ---
 
+## About Amazon PartyRock
+
+Amazon PartyRock is a no-code generative AI platform built on Amazon Bedrock that allows users to build AI applications using prompts and widgets without writing code.
+
+In this project, PartyRock is used to design structured prompt workflows that generate ATS resumes, cover letters, skill-gap analysis, and interview preparation plans from job descriptions and candidate profiles.
+
+---
+
 ## Technologies Used
 
 - Amazon PartyRock
